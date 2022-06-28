@@ -10,7 +10,7 @@ This is the visualisation of the output of the generator across its training sta
 
 ![](generator_images.gif)
 
-And this if how the losses of the generator and the discrinators decreases across their training stage.
+And this graph shows how the losses of the generator and the discrinators decreases across their training stage.
 
 
 ![](loss.png)
