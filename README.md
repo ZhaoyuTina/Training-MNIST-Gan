@@ -1,5 +1,7 @@
 # Training-MNIST-Gan
 
+Zhaoyu Zhang
+
 I followed the tutorial of Generating MNIST Digit Images using Vanilla GAN with PyTorch by Sovit Ranjan Rath to generate this Generative Adversarial Network.
 The aim is to create a generator that can draw digits.
 
@@ -14,3 +16,4 @@ And this graph shows how the losses of the generator and the discrinators decrea
 
 
 ![](loss.png)
+
